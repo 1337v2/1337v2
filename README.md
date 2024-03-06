@@ -1,16 +1,11 @@
-### Hi there 👋
+```python
+print(f'Follow {1337v2} on Github')
+```
 
-<!--
-**1337v2/1337v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+       OS  :  w10
+   Python  :  python 3.12.1
+Languages  :  Python, HTML/CSS, Js, Batch, C++
+  Discord  :  nico1401
+   Server  :  None
+```
